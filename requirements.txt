@@ -6,3 +6,15 @@ geopandas==0.14.3
 gerrychain==0.3.2
 maup==2.0.2
 fiona==1.9.6
+
+Links to SHP files:
+https://redistrictingdatahub.org/dataset/new-mexico-block-pl-94171-2020-by-table/
+https://redistrictingdatahub.org/dataset/vest-2020-new-mexico-precinct-and-election-results/
+https://redistrictingdatahub.org/dataset/new-mexico-state-legislative-district-upper-cvap-data-2022/
+https://redistrictingdatahub.org/dataset/new-mexico-2023-select-voting-age-population-vap-data-from-the-american-community-survey-20192023-at-the-county-level/
+https://redistrictingdatahub.org/dataset/vest-2018-new-mexico-precinct-and-election-results/
+
+
+
+not sure if we need this:
+https://redistrictingdatahub.org/dataset/new-mexico-county-boundaries-2020/
